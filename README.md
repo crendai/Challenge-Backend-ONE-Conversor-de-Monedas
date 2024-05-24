@@ -67,4 +67,4 @@ Las contribuciones son bienvenidas. Si encuentras algún error o tienes alguna s
 
 Este proyecto está bajo la Licencia MIT. Para más información, consulta el archivo [LICENSE](LICENSE).
 
-![Badge-Conversor.png]([url completa de la imagen](https://raw.githubusercontent.com/crendai/Challenge-Backend-ONE-Conversor-de-Monedas/main/Badge-Conversor.png))
+![Badge-Conversor.png](https://raw.githubusercontent.com/crendai/Challenge-Backend-ONE-Conversor-de-Monedas/main/Badge-Conversor.png)
